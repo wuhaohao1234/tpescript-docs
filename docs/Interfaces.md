@@ -76,4 +76,4 @@ tom.id = 9527;
 
 ```
 ## 数组的类型
-[数组的类型](https://github.com/wuhaohao1234/tpescript-docs/#/array-type)
+[数组的类型](https://wuhaohao1234.github.io/tpescript-docs/#/array-type)
