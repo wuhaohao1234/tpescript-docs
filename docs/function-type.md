@@ -122,4 +122,4 @@ handleEvent(document.getElementById('hello'), 'scroll');  // 没问题
 handleEvent(document.getElementById('world'), 'dbclick'); // 报错，event 不能为 'dbclick'
 ```
 ## 类
-[类](https://github.com/wuhaohao1234/tpescript-docs/#/class)
+[类](https://wuhaohao1234.github.io/tpescript-docs/#/class)
