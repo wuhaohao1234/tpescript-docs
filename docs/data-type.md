@@ -66,4 +66,4 @@ myFavoriteNumber = 7;
 1. 可以访问上述联合类型变量的公有属性.toString()
 2. 但是不能访问私有属性长度
 ## 对象的类型接口
-[对象的类型接口](https://github.com/wuhaohao1234/tpescript-docs/#/Interfaces)
+[对象的类型接口](https://wuhaohao1234.github.io/tpescript-docs/#/Interfaces)
