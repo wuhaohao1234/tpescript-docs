@@ -24,4 +24,4 @@ let arrNum: Number = [1,2,3,4,5]
 ## 4.类数组(伪数组)
     这里尤为注意，类数组不是数组
 ## 5.函数的类型
-[函数的类型](https://github.com/wuhaohao1234/tpescript-docs/#/function-type)
+[函数的类型](https://wuhaohao1234.github.io/tpescript-docs/#/function-type)
