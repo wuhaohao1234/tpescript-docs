@@ -63,4 +63,4 @@ console.log(sayHello(language));
 
 ## 五、正式开始typescript
 
-[数据类型](https://github.com/wuhaohao1234/tpescript-docs/#/data-type)
+[数据类型](https://wuhaohao1234.github.io/tpescript-docs/#/)
